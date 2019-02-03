@@ -4,3 +4,5 @@ Ejecutando el script (MySQL) se crean las siguientes tablas:
 - Provincias
 - Municipios
 - Núcleos
+
+Pueden ponerse en contacto para cualquier consulta o mejorar.
