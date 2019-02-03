@@ -1,5 +1,5 @@
 # Base de datos de Municipios
-Ejecutando el script se crean las siguientes tablas:
+Ejecutando el script (MySQL) se crean las siguientes tablas:
 - Comunidades
 - Provincias
 - Municipios
